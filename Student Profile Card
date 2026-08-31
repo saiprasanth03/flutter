@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                'Student Name: Tammineneni Venkat Saketh',
+                'Student Name: S Sai Prasanth',
                 style: TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               const Text(
-                'Roll Number: 24pa1a05m4',
+                'Roll Number: 24pa1a05k6',
                 style: TextStyle(fontSize: 18),
               ),
               const SizedBox(height: 10),
@@ -109,7 +109,7 @@ class MyApp extends StatelessWidget {
                     ),
                     SizedBox(width: 15),
                     Text(
-                      '24pa1a05m4@vishnu.edu.in',
+                      '24pa1a05k6@vishnu.edu.in',
                       style: TextStyle(fontSize: 18),
                     ),
                   ],
